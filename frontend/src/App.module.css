@@ -1,4 +1,4 @@
-.counter {
+/* .counter {
   font-size: 16px;
   padding: 5px 10px;
   border-radius: 5px;
@@ -181,4 +181,68 @@
     right: 0;
     border-right-color: var(--border);
   }
+} */
+
+.crrd {
+  padding: 10px;
+  border-radius: 10000px;
+  background: #000000;
+  border: 3px solid #0177ff;
+}
+.carrd {
+  padding: 10px;
+  border-radius: 10000px;
+  background: #000000;
+  border: 3px solid #0177ff;
+}
+.cgr {
+  padding: 10px;
+  border-radius: 100px;
+  background: #ffffff;
+  border: 3px solid #0177ff;
+}
+.crd {
+  padding: 10px;
+  border-radius: 10px;
+  background: #000000;
+  border: 3px solid #0177ff;
+}
+.card {
+  padding: 100px;
+  border-radius: 100px;
+  background: #000000;
+  border: 5px solid #0177ff;
+}
+
+.title {
+  margin: 0 0 8px;
+  color: #bfbfbf93;
+}
+
+.text {
+  margin: 0;
+  color: #ffffff;
+}
+
+
+
+
+.light {
+  background-color: white;
+  color: black;
+  min-height: 100vh;
+  padding: 30px;
+}
+
+.dark {
+  background-color: #222;
+  color: white;
+  min-height: 100vh;
+  padding: 30px;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 20px;
+  cursor: pointer;
 }
